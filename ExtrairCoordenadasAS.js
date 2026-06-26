@@ -83,3 +83,19 @@
     };
     document.getElementById("closeBtn").onclick = () => modal.remove();
 })();
+
+// Licença: MIT
+// Copyright (c) agressor89
+
+// Aviso Legal:
+// Ao enviar um mod (script) gerado pelo utilizador para utilização com o Tribal Wars,
+// o criador concede à InnoGames uma licença perpétua, irrevogável, mundial,
+// isenta de royalties e não exclusiva para utilizar, reproduzir, distribuir,
+// exibir publicamente, modificar e criar trabalhos derivados do mod.
+//
+// Esta licença permite à InnoGames incorporar o mod em qualquer aspecto do jogo
+// e dos seus serviços relacionados, incluindo actividades promocionais e comerciais,
+// sem qualquer exigência de compensação ou atribuição ao uploader.
+//
+// O Uploader declara e garante que tem o direito legal de conceder esta licença
+// e que o mod não infringe quaisquer direitos de terceiros.
